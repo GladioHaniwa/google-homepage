@@ -1,0 +1,1 @@
+Learning to deconstruct an existing web page and rebuilding it as part of Odin Project webdev course.
